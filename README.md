@@ -20,8 +20,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- [Link to the Git repository](https://github.com/marekbrze/Frontend-Mentor-QR-Code-Challenge)
-- [Live Demo](https://marekbrze.github.io/Frontend-Mentor-QR-Code-Challenge/)
+- [Link to the Git repository](https://github.com/marekbrze/Frontend-Mentor-Article-Preview-Component)
+- [Live Demo](https://marekbrze.github.io/Frontend-Mentor-Article-Preview-Component/)
 
 ## My process
 
@@ -38,3 +38,4 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 - Linkedin - [Marek Brzeziński](https://www.linkedin.com/in/marekbrzezinski/)
 - Frontend Mentor - [@marekbrze](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@marekbrze](https://www.twitter.com/marekbrze)
+  {P}P
