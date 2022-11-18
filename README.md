@@ -27,12 +27,11 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Built with
 
-- Plain HTML5
-- Used CSS Variables and Flexbox
+...
 
 ### What I learned
 
-The main challenge in this project was to create and position two circles in the qr code background.
+...
 
 ## Author
 
