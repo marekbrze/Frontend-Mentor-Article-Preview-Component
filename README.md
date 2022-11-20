@@ -31,7 +31,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### What I learned
 
-...
+- How should I show and hide share section?
 
 ## Author
 

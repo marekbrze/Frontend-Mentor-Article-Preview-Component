@@ -6,6 +6,7 @@
   --grayish-blue: #9eafc2;
   --light-grayish-blue: #ecf2f8;
   --white: #fff;
+  --bold: 700;
 }
 
 body {
@@ -23,16 +24,21 @@ body {
   overflow: hidden;
 }
 
-.card-content {
+.article-info {
   display: flex;
   flex-direction: column;
-  padding: 32px;
+  padding: 16px 32px;
 }
 
-.article-info {
+.article-actions {
   display: flex;
   align-items: center;
   gap: 1rem;
+  padding: 12px 32px;
+}
+
+.author {
+  font-weight: var(--bold);
 }
 
 .author-info {
@@ -62,7 +68,7 @@ body {
 }
 
 .heading {
-  font-weight: 700;
+  font-weight: var(--bold);
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.2px;
