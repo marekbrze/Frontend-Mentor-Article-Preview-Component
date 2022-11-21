@@ -69,19 +69,8 @@ body {
   background-color: var(--light-grayish-blue);
   justify-content: center;
   border: none;
-}
-
-.share-icon {
   color: var(--desaturated-dark-blue);
 }
-
-/* .share:hover {
-  background-color: var(--desaturated-dark-blue);
-} */
-
-/* .share:hover > .share-icon {
-  color: var(--white);
-} */
 
 .share-panel {
   position: absolute;
