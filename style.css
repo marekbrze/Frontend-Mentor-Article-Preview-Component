@@ -68,6 +68,7 @@ body {
   z-index: 2;
   background-color: var(--light-grayish-blue);
   justify-content: center;
+  border: none;
 }
 
 .share-icon {
