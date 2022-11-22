@@ -1,6 +1,6 @@
 const sharePanel = document.querySelector(".share-panel");
 
-const shareButton = document.querySelector(".share");
+const shareButton = document.querySelector(".share-button");
 
 const showSharePanel = () => {
   shareButton.style.color = "#fff";
