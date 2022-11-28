@@ -16,7 +16,17 @@ const hideSharePanel = () => {
   sharePanel.style.zIndex = -1;
 };
 
+const toogleSharePanel = (e) => {
+  if (e.key === "Enter") {
+    return sharePanel.style.opacity === 1
+      ? console.log("Works")
+      : showSharePanel();
+  }
+};
+
 shareButton.addEventListener("mouseover", showSharePanel);
+// TODO: Add toggle to the button
+shareButton.addEventListener("keypress", toogleSharePanel);
 sharePanel.addEventListener("mouseover", showSharePanel);
 
 sharePanel.addEventListener("mouseout", hideSharePanel);

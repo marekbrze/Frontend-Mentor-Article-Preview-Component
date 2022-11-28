@@ -74,6 +74,7 @@ body {
 
 .share-panel {
   position: absolute;
+  left: 0;
   bottom: 0;
   z-index: -1;
   background-color: var(--very-dark-grayish-blue);
@@ -149,6 +150,7 @@ body {
   color: #3e52a3;
 }
 
+/* TODO: Adjust the responsive card sizing to the design */
 @media (min-width: 1024px) {
   .card {
     width: 730px;
